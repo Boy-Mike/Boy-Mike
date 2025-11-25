@@ -1,11 +1,12 @@
 <p align="center">
-  <img src="banner.gif" width="100%" alt="GPTishka Banner"/>
+  <img src="gptishka_banner.gif" width="80%" alt="GPTishka & Mishki animated banner"/>
 </p>
+
 <h1 align="center">👋 Привіт, я Міша (Boy-Mike)</h1>
 <h3 align="center">AI Developer • Streamer • Creator of GPTishka_UA</h3>
 
 <p align="center">
-  <img src="https://i.imgur.com/JSyNRrS.gif" width="80%">
+  <img src="gptishka_bear.gif" width="300px" alt="GPTishka bear animation"/>
 </p>
 
 ---
@@ -26,8 +27,10 @@
 
 ## 📊 GitHub Статистика
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Boy-Mike&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boy-Mike&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Boy-Mike&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boy-Mike&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
