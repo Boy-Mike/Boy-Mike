@@ -34,11 +34,18 @@
 
 ## 🌐 Соціальні мережі
 <p align="center">
-  <a href="https://www.youtube.com/@MikeGavagan"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://twitch.tv/BoyMike"><img src="https://img.shields.io/badge/Twitch-purple?style=for-the-badge&logo=twitch&logoColor=white"/></a>
-  <a href="https://instagram.com/mikegavrigan"><img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://discord.gg/PpwJXQ7S"><img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@GPTishka"><img src="https://img.shields.io/badge/YouTube-GPTishka-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@boymikebm6605Mishki"><img src="https://img.shields.io/badge/YouTube-BoyMikeBM-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://www.twitch.tv/gptishkamishki"><img src="https://img.shields.io/badge/Twitch-gptishkamishki-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
+  <a href="https://www.instagram.com/gptishkamishki/"><img src="https://img.shields.io/badge/Instagram-gptishkamishki-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.tiktok.com/@gptashkamisha"><img src="https://img.shields.io/badge/TikTok-gptashkamisha-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
+  <a href="https://www.facebook.com/profile.php?id=100064850432023"><img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.reddit.com/user/gptishka_mishka/"><img src="https://img.shields.io/badge/Reddit-gptishka__mishka-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
+  <a href="https://discord.gg/KB2FSeKTwK"><img src="https://img.shields.io/badge/Discord-Server-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://x.com/GPTishkaMishki"><img src="https://img.shields.io/badge/X-%40GPTishkaMishki-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://gptishkamishki.wordpress.com/"><img src="https://img.shields.io/badge/WordPress-Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/></a>
 </p>
+
 
 ---
 
