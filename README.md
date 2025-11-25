@@ -34,8 +34,8 @@
 
 ## 🌐 Соціальні мережі
 <p align="center">
-  <a href="https://www.youtube.com/@GPTishka"><img src="https://img.shields.io/badge/YouTube-GPTishka-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@boymikebm6605Mishki"><img src="https://img.shields.io/badge/YouTube-BoyMikeBM-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@GPTishkaMishki"><img src="https://img.shields.io/badge/YouTube-GPTishka%20%26%20Mishki-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://youtube.com/@boymikebm6605?si=usrSlz2u343FNTOY"><img src="https://img.shields.io/badge/YouTube-Boy%20Mike%20B%26M-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://www.twitch.tv/gptishkamishki"><img src="https://img.shields.io/badge/Twitch-gptishkamishki-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
   <a href="https://www.instagram.com/gptishkamishki/"><img src="https://img.shields.io/badge/Instagram-gptishkamishki-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.tiktok.com/@gptashkamisha"><img src="https://img.shields.io/badge/TikTok-gptashkamisha-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
@@ -45,7 +45,6 @@
   <a href="https://x.com/GPTishkaMishki"><img src="https://img.shields.io/badge/X-%40GPTishkaMishki-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://gptishkamishki.wordpress.com/"><img src="https://img.shields.io/badge/WordPress-Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/></a>
 </p>
-
 
 ---
 
