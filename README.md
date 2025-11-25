@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="gptishka_banner.gif" width="80%" alt="GPTishka & Mishki animated banner"/>
+  <img src="gptishka_banner.gif" width="100%" alt="GPTishka & Mishki banner"/>
 </p>
 
 <h1 align="center">👋 Привіт, я Міша (Boy-Mike)</h1>
 <h3 align="center">AI Developer • Streamer • Creator of GPTishka_UA</h3>
 
 <p align="center">
-  <img src="gptishka_bear.gif" width="300px" alt="GPTishka bear animation"/>
+  <img src="https://i.imgur.com/....gif" width="300px">
 </p>
 
 ---
@@ -52,7 +52,7 @@
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/rCsSlTY.gif" width="300px">
+  <img src="gptishka_banner.gif" width="300px" alt="GPTishka animation"/>
 </p>
 
 <h3 align="center">🐻 GPTішка & Мішка</h3>
